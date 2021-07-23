@@ -1,0 +1,2 @@
+*.AppImage filter=lfs diff=lfs merge=lfs -text
+worship-extreme-presenter_0.0.1_all.deb filter=lfs diff=lfs merge=lfs -text
