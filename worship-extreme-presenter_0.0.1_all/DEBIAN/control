@@ -4,5 +4,5 @@ Section: web
 Priority: optional
 Architecture: all
 Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
 Description: WorshipExtreme Presenter
-
