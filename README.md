@@ -2,5 +2,5 @@
 
 ## [UbuntuCE](https://ubuntuce.com/)
 
-<img src="https://raw.githubusercontent.com/mhancoc7/worship-extreme-presenter/main/presenter-by-wp.png" />
+<img src="https://raw.githubusercontent.com/mhancoc7/worship-extreme-presenter/master/presenter-by-wp.png" />
 
