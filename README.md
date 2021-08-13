@@ -1,6 +1,6 @@
-<h1><img src="https://raw.githubusercontent.com/mhancoc7/worship-extreme-presenter/master/worship-extreme-logo.png" height="50" /> WorshipExtreme Presenter</h1>
+<h1><img src="https://raw.githubusercontent.com/jeremehancock/worship-extreme-presenter/master/worship-extreme-logo.png" height="50" /> WorshipExtreme Presenter</h1>
 
 ## [UbuntuCE](https://ubuntuce.com/)
 
-<img src="https://raw.githubusercontent.com/mhancoc7/worship-extreme-presenter/master/presenter-by-wp.png" />
+<img src="https://raw.githubusercontent.com/jeremehancock/worship-extreme-presenter/master/presenter-by-wp.png" />
 
