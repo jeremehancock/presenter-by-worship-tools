@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Presenter by WorshipTools
+Comment=Church Presentation Software by WorshipTools
+Exec=launch-presenter.sh
+Icon=worship-extreme-presenter.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Name[en_US]=Presenter by WorshipTools

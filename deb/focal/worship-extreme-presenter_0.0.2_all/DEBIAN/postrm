@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm /usr/bin/*.AppImageUCE
+
+exit 0
