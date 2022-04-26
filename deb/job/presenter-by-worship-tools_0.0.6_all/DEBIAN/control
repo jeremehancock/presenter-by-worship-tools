@@ -1,0 +1,9 @@
+Package: presenter-by-worship-tools
+Version: 0.0.6
+Section: web
+Priority: optional
+Architecture: all
+Maintainer: Jereme Hancock <support@ubuntuce.com>
+Installed-Size: 139000
+Depends: zenity, curl, jq, wget, libfuse2
+Description: Presenter by WorshipTools

@@ -1,0 +1,35 @@
+worship-extreme-presenter (0.0.1) focal; urgency=optional
+
+   * Initial release
+
+ -- Jereme Hancock <support@ubuntuce.com>  Sun, 23 Jul 2021 10:10:10 +0600
+ 
+worship-extreme-presenter (0.0.2) focal; urgency=optional
+
+   * Added update logic
+
+ -- Jereme Hancock <support@ubuntuce.com>  Sun, 28 Jul 2021 11:10:40 +0600
+ 
+worship-extreme-presenter (0.0.3) jammy; urgency=optional
+
+   * Updated for Jammy Jellyfish Release
+
+ -- Jereme Hancock <support@ubuntuce.com>  Thu, 14 Jul 2022 8:35:40 +0600
+
+worship-extreme-presenter (0.0.4) jammy; urgency=optional
+
+   * Added fuse dependency
+
+ -- Jereme Hancock <support@ubuntuce.com>  Thu, 15 Jul 2022 1:37:40 +0600
+ 
+worship-extreme-presenter (0.0.5) jammy; urgency=optional
+
+   * Updated fuse dependency to libfuse2
+
+ -- Jereme Hancock <support@ubuntuce.com>  Thu, 15 Jul 2022 2:51:40 +0600
+ 
+presenter-by-worship-tools (0.0.6) jammy; urgency=optional
+
+   * Renamed deb package since app changed names
+
+ -- Jereme Hancock <support@ubuntuce.com>  Thu, 15 Jul 2022 4:18:40 +0600

@@ -23,7 +23,7 @@
 
 # Jammy Jellyfish Release
 
-APP_TITLE="WorshipTools Presenter Launcher"
+APP_TITLE="Presenter by WorshipTools Launcher"
 
 for filename in /usr/bin/*.AppImageUCE; do
     export INSTALLED="${filename#'/usr/bin/'}"
@@ -66,7 +66,7 @@ if [ $? -eq 0 ]; then
     
     if [ "$INSTALLED" == "null.AppImageUCE" ]; then
         if
-            zenity --window-icon=/usr/share/pixmaps/worship-extreme-presenter.png --question --title "$APP_TITLE" --no-wrap --text="\n<span color='#228B22'><big>Presenter by WorshipTools!</big></span>\n\nThis is the first time you have run the Presenter installer.\n\nWould you like to install the latest version from WorshipTools.com now?"
+            zenity --window-icon=/usr/share/pixmaps/worship-tools-presenter.png --question --title "$APP_TITLE" --no-wrap --text="\n<span color='#228B22'><big>Presenter by WorshipTools!</big></span>\n\nThis is the first time you have run the Presenter installer.\n\nWould you like to install the latest version from WorshipTools.com now?"
         then
             update
             /usr/bin/$LATEST.AppImageUCE
@@ -79,7 +79,7 @@ if [ $? -eq 0 ]; then
         /usr/bin/$INSTALLED
     else
         if
-            zenity --window-icon=/usr/share/pixmaps/worship-extreme-presenter.png --question --title "$APP_TITLE" --no-wrap --text="\n<span color='#228B22'><big>Update available!</big></span>\n\nThe internal application updater is not able to install a new version since it does not have permission.\n\nWould you like to install the update from WorshipTools.com now?"
+            zenity --window-icon=/usr/share/pixmaps/worship-tools-presenter.png --question --title "$APP_TITLE" --no-wrap --text="\n<span color='#228B22'><big>Update available!</big></span>\n\nThe internal application updater is not able to install a new version since it does not have permission.\n\nWould you like to install the update from WorshipTools.com now?"
         then
             update
             /usr/bin/$LATEST.AppImageUCE
