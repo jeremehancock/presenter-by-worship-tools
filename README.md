@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/jeremehancock/presenter-by-worship-tools/master/presenter-logo.png" height="50" />Presenter by WorshipTools</h1>
+<h1><img src="https://raw.githubusercontent.com/jeremehancock/presenter-by-worship-tools/master/presenter-logo.png" height="50" /> Presenter by WorshipTools</h1>
 
 <img src="https://raw.githubusercontent.com/jeremehancock/presenter-by-worship-tools/master/presenter-job.png" />
 
