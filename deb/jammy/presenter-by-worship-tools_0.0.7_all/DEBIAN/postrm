@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [[ $1 = "remove" ]]; then
+  rm /usr/bin/*.AppImageUCE
+fi
+
+exit 0
